@@ -169,7 +169,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 /*-- //header --*/
 #home {
-    background: url(../images/wp.jpg) no-repeat center top;
+    background: url(../images/wp.png) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -626,6 +626,7 @@ p.b_label {
     border: 1px solid #ddd;
     border-left: none;
     border-right: none;
+    border-bottom: none;
     padding: 1em 0;
 }
 /*-- //education --*/
